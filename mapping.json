@@ -1628,6 +1628,15 @@
     "process": "C-41",
     "description": ""
   },
+  "Kodak Aerocolor IV 2460": {
+    "file": "Kodak_Aerocolor_IV_2460.png",
+    "brand": "Kodak",
+    "name": "Aerocolor IV 2460",
+    "iso": 125,
+    "type": "COLOR_NEGATIVE",
+    "process": "C-41",
+    "description": "Kodak Aerocolor IV 125 is a professional color negative film originally designed for aerial and surveillance applications, later widely adopted by film photographers for its unique rendering and versatility. With a nominal sensitivity of ISO 125, it delivers exceptionally fine grain and high resolving power, making it ideal for detailed landscape, travel, and documentary photography."
+  },
   "Kodak ColorPlus 200": {
     "file": "Kodak_ColorPlus_200.png",
     "brand": "Kodak",
